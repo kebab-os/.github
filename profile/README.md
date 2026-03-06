@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://kebabos.me"><img src="static/IMG_4557.png" width="100%" height="auto" /></a>
+  <a href="https://kebabos.me"><img src="static/IMG_4559.png" width="100%" height="auto" /></a>
 
   <br />
   
