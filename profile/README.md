@@ -16,6 +16,8 @@ At Kebab-OS, we have developed a range of innovative tools and systems that help
 
 - **Kebab-CLI**: A robust, command-line shell built for developers who prefer to work in a terminal-based environment. Kebab-CLI offers powerful features, customization options, and supports a wide range of commands to help developers interact with their systems more efficiently. It’s perfect for automating tasks, managing workflows, or simply boosting productivity when working directly with the command line. [Open ◹](https://github.com/kebab-os/kebab-cli)
 
+- **And more!**: View our full list of kebab products on the [list repo](https://github.com/kebab-os/list).
+
 These tools reflect our commitment to providing versatile solutions that cater to different workflows, ensuring that developers have the flexibility they need to work the way they want.
 
 # Contact us
