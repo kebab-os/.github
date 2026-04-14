@@ -28,6 +28,13 @@ Feel free to reach out to us with any questions, feedback, or collaboration inqu
 # List
 
 <!-- LIST_START -->
+- [kebab-gui](https://github.com/kebab-gui) — [https://kebabos.me](https://kebabos.me)
+- [kebab-cli](https://github.com/kebab-cli) — [https://kebabos.me](https://kebabos.me)
+- [kebab-launcher](https://github.com/kebab-launcher)
+- [kebab-android](https://github.com/kebab-android)
+- [kebab-tools](https://github.com/kebab-tools) — [https://tools.kebabos.me](https://tools.kebabos.me)
+- [kebab-lang](https://github.com/kebab-lang)
+- [kebab-shell](https://github.com/kebab-shell)
 <!-- LIST_END -->
 
 <br /><br />
