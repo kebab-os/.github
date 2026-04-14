@@ -23,6 +23,12 @@ These tools reflect our commitment to providing versatile solutions that cater t
 # Contact us
 Feel free to reach out to us with any questions, feedback, or collaboration inquiries. You can contact us via email at [contact@kebabos.me](mailto:contact@kebabos.me). Our team at Kebab-OS is always eager to connect and will do our best to respond promptly.
 
+---
+
+# List
+
+<!-- LIST_START -->
+<!-- LIST_END -->
 
 <br /><br />
   
