@@ -43,8 +43,7 @@ Feel free to reach out to us with any questions, feedback, or collaboration inqu
 ---
 
 <div>
-  <a href="https://github.com/kebab-os/kebab-gui"> <img src="https://img.shields.io/badge/GUI-blue?style=for-the-badge"     /></a>
-  <a href="https://github.com/kebab-os/kebab-cli"> <img src="https://img.shields.io/badge/CLI-blue?style=for-the-badge"     /></a>
+  <a href="https://github.com/kebab-os/kebab-gui"> <img src="https://img.shields.io/badge/OS-blue?style=for-the-badge"     /></a>
   &ensp;
   <a href="https://kebabos.me">                    <img src="https://img.shields.io/badge/Website-grey?style=for-the-badge" /></a>
   <a href="https://docs.kebabos.me">               <img src="https://img.shields.io/badge/Docs-grey?style=for-the-badge"    /></a>
