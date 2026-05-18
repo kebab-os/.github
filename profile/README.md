@@ -14,7 +14,7 @@ At kebab-os, we have developed a range of innovative tools and systems that help
 
 - **kebab-gui (the main)**: A user-friendly, GUI-based windowing operating system designed to provide a seamless and intuitive interface for developers. Kebab-GUI aims to simplify the user experience, offering a clean, modern design and a responsive environment for both development and general use. Whether you're running applications or managing system resources, kebab-gui offers smooth navigation and enhanced functionality for a better user experience. [Open ◹](https://github.com/kebab-os/kebab-gui)
 
-    <details>
+    <details open>
       <summary>Screenshot of kebab-os</summary>
       <br />
       <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75b4c7ce-b546-4c88-9309-fe741ad96f73" />
