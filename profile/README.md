@@ -14,6 +14,13 @@ At kebab-os, we have developed a range of innovative tools and systems that help
 
 - **kebab-gui (the main)**: A user-friendly, GUI-based windowing operating system designed to provide a seamless and intuitive interface for developers. Kebab-GUI aims to simplify the user experience, offering a clean, modern design and a responsive environment for both development and general use. Whether you're running applications or managing system resources, kebab-gui offers smooth navigation and enhanced functionality for a better user experience. [Open ◹](https://github.com/kebab-os/kebab-gui)
 
+<details>
+  <summary>Screenshot of kebab-os</summary>
+  <p>Here is the hidden content! You can put text, images, or even other HTML elements inside here.</p>
+</details>
+  
+</details>
+
 - **kebab-tools (side salad)**: A robust, endpoint-based, command-line set of developer utilities built for developers who prefer to do everything in a terminal-based environment. kebab-tools offers powerful features, full compatability, and even supports use in browser to help less technical developers use kebab-tools as well. It’s perfect for simple and complex tasks, can be used as an api, or simply boosting productivity when working directly with the command line. [Open ◹](https://github.com/kebab-os/kebab-tools)
 
 - **And more**: View our full list of kebab products on the [list repo](https://github.com/kebab-os/list).
