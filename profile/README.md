@@ -16,9 +16,9 @@ At kebab-os, we have developed a range of innovative tools and systems that help
 
     <details>
       <summary>Screenshot of kebab-os</summary>
-      <p>Here is the hidden content! You can put text, images, or even other HTML elements inside here.</p>
+      <br />
+      <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75b4c7ce-b546-4c88-9309-fe741ad96f73" />
     </details>
-<br />
 
 - **kebab-tools (side salad)**: A robust, endpoint-based, command-line set of developer utilities built for developers who prefer to do everything in a terminal-based environment. kebab-tools offers powerful features, full compatability, and even supports use in browser to help less technical developers use kebab-tools as well. It’s perfect for simple and complex tasks, can be used as an api, or simply boosting productivity when working directly with the command line. [Open ◹](https://github.com/kebab-os/kebab-tools)
 
